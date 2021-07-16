@@ -1,0 +1,17 @@
+.botonNoticia{
+    text-align: center;
+  }
+
+.modal{
+    padding: 40px 30px;
+    background: rgba(240, 240, 240, 0.5);
+    border-radius: 10px;
+    margin:auto;      
+}
+
+.modal .modaldescription{
+  font-size: 12px;
+  width: 480px;
+  margin:auto; 
+  position: relative;
+}

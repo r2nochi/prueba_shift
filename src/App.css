@@ -1,0 +1,16 @@
+header{
+  text-align: center;
+}
+
+header, b{
+  font-size: 24pt;
+}
+
+.dropdown{
+  text-align: center;
+}
+
+.botonDropdown{
+  background-color: red !important;
+  border-color: black !important;
+}

@@ -1,0 +1,7 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+    width: 1250px;
+    position: relative;
+    margin: auto;
+}
